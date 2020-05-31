@@ -1,3 +1,4 @@
+#利用pyqt和matplotlib实现CPU动态的实时曲线
 import sys
 import random
 import matplotlib
